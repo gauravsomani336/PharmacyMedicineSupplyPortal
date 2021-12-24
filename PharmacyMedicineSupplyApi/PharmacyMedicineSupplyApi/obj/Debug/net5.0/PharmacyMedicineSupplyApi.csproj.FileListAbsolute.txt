@@ -1,0 +1,90 @@
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.csproj.AssemblyReference.cache
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.AssemblyInfoInputs.cache
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.AssemblyInfo.cs
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.csproj.CoreCompileInputs.cache
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.MvcApplicationPartsAssemblyInfo.cs
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.MvcApplicationPartsAssemblyInfo.cache
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\appsettings.Development.json
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\appsettings.json
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.exe
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.deps.json
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.runtimeconfig.json
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.runtimeconfig.dev.json
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.dll
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\ref\PharmacyMedicineSupplyApi.dll
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.pdb
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\staticwebassets\PharmacyMedicineSupplyApi.StaticWebAssets.Manifest.cache
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\staticwebassets\PharmacyMedicineSupplyApi.StaticWebAssets.xml
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\scopedcss\bundle\PharmacyMedicineSupplyApi.styles.css
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.RazorTargetAssemblyInfo.cache
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.csproj.CopyComplete
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.dll
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\ref\PharmacyMedicineSupplyApi.dll
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.pdb
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.genruntimeconfig.cache
+E:\cognizant_internship\final project\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\appsettings.json
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.exe
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.deps.json
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.runtimeconfig.json
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.runtimeconfig.dev.json
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.dll
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\ref\PharmacyMedicineSupplyApi.dll
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.pdb
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.csproj.AssemblyReference.cache
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.AssemblyInfoInputs.cache
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.AssemblyInfo.cs
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.csproj.CoreCompileInputs.cache
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\staticwebassets\PharmacyMedicineSupplyApi.StaticWebAssets.Manifest.cache
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\staticwebassets\PharmacyMedicineSupplyApi.StaticWebAssets.xml
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\scopedcss\bundle\PharmacyMedicineSupplyApi.styles.css
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.RazorTargetAssemblyInfo.cache
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.csproj.CopyComplete
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.dll
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\ref\PharmacyMedicineSupplyApi.dll
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.pdb
+D:\Users\spareek\Downloads\Pha\Pharmacy-Medicine-Supply-Management-main\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.genruntimeconfig.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\appsettings.Development.json
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\appsettings.json
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.exe
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.deps.json
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.runtimeconfig.json
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.runtimeconfig.dev.json
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\ref\PharmacyMedicineSupplyApi.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\PharmacyMedicineSupplyApi.pdb
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.csproj.AssemblyReference.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.AssemblyInfoInputs.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.AssemblyInfo.cs
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.csproj.CoreCompileInputs.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\staticwebassets\PharmacyMedicineSupplyApi.StaticWebAssets.Manifest.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\staticwebassets\PharmacyMedicineSupplyApi.StaticWebAssets.xml
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\scopedcss\bundle\PharmacyMedicineSupplyApi.styles.css
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.RazorTargetAssemblyInfo.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.csproj.CopyComplete
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\ref\PharmacyMedicineSupplyApi.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.pdb
+D:\Cogni project\PharmacyMedicineSupplyPortal\PharmacyMedicineSupplyApi\PharmacyMedicineSupplyApi\obj\Debug\net5.0\PharmacyMedicineSupplyApi.genruntimeconfig.cache

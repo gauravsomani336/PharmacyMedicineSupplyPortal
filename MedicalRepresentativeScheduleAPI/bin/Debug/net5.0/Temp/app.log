@@ -1,0 +1,292 @@
+INFO  11:08:30 Now listening on: https://localhost:5001
+INFO  11:08:30 Now listening on: https://localhost:5001
+INFO  11:08:30 Now listening on: http://localhost:5000
+INFO  11:08:30 Now listening on: http://localhost:5000
+INFO  11:08:30 Application started. Press Ctrl+C to shut down.
+INFO  11:08:30 Application started. Press Ctrl+C to shut down.
+INFO  11:08:30 Hosting environment: Development
+INFO  11:08:30 Hosting environment: Development
+INFO  11:08:30 Content root path: E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI
+INFO  11:08:30 Content root path: E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI
+INFO  11:08:57 Controller GetRepSchedule is invoked
+INFO  11:08:57 GetSchedules is invoked
+INFO  11:08:57 Data is being Read.
+INFO  11:08:57 GetAllStock is invoked
+INFO  11:08:57 Data is being Read from MedicineStock api
+INFO  11:08:59 Represntative Schedule is retrived
+INFO  11:13:11 Application started. Press Ctrl+C to shut down.
+INFO  11:13:11 Application started. Press Ctrl+C to shut down.
+INFO  11:13:11 Hosting environment: Development
+INFO  11:13:11 Hosting environment: Development
+INFO  11:13:11 Content root path: E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI
+INFO  11:13:11 Content root path: E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI
+INFO  11:13:46 Controller GetRepSchedule is invoked
+INFO  11:13:46 GetSchedules is invoked
+INFO  11:13:46 Data is being Read.
+INFO  11:13:46 GetAllStock is invoked
+INFO  11:13:46 Data is being Read from MedicineStock api
+INFO  11:13:47 Represntative Schedule is retrived
+INFO  11:14:46 Controller GetRepSchedule is invoked
+INFO  11:14:46 GetSchedules is invoked
+INFO  11:14:46 Data is being Read.
+INFO  11:14:46 GetAllStock is invoked
+INFO  11:14:46 Data is being Read from MedicineStock api
+INFO  11:14:46 Represntative Schedule is retrived
+INFO  11:14:58 Controller GetRepSchedule is invoked
+INFO  11:14:58 GetSchedules is invoked
+INFO  11:14:58 Data is being Read.
+INFO  11:14:58 GetAllStock is invoked
+INFO  11:14:58 Data is being Read from MedicineStock api
+INFO  11:14:58 Represntative Schedule is retrived
+INFO  05:22:22 Application started. Press Ctrl+C to shut down.
+INFO  05:22:22 Application started. Press Ctrl+C to shut down.
+INFO  05:22:22 Hosting environment: Development
+INFO  05:22:22 Hosting environment: Development
+INFO  05:22:22 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  05:22:22 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  05:22:53 Controller GetRepSchedule is invoked
+INFO  05:22:53 GetSchedules is invoked
+INFO  05:22:53 Data is being Read.
+INFO  05:22:53 GetAllStock is invoked
+INFO  05:22:53 Data is being Read from MedicineStock api
+INFO  05:22:55 Represntative Schedule is retrived
+INFO  06:17:19 Controller GetRepSchedule is invoked
+INFO  06:17:19 GetSchedules is invoked
+INFO  06:17:19 Data is being Read.
+INFO  06:17:19 GetAllStock is invoked
+INFO  06:17:19 Data is being Read from MedicineStock api
+INFO  06:17:21 Represntative Schedule is retrived
+INFO  06:44:56 Controller GetRepSchedule is invoked
+INFO  06:44:56 GetSchedules is invoked
+INFO  06:44:56 Data is being Read.
+INFO  06:44:56 GetAllStock is invoked
+INFO  06:44:56 Data is being Read from MedicineStock api
+INFO  06:44:57 Represntative Schedule is retrived
+INFO  06:48:56 Application started. Press Ctrl+C to shut down.
+INFO  06:48:56 Application started. Press Ctrl+C to shut down.
+INFO  06:48:56 Hosting environment: Development
+INFO  06:48:56 Hosting environment: Development
+INFO  06:48:56 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  06:48:56 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  06:49:13 Controller GetRepSchedule is invoked
+INFO  06:49:48 GetSchedules is invoked
+INFO  06:51:33 Application started. Press Ctrl+C to shut down.
+INFO  06:51:33 Application started. Press Ctrl+C to shut down.
+INFO  06:51:33 Hosting environment: Development
+INFO  06:51:33 Hosting environment: Development
+INFO  06:51:33 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  06:51:33 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  06:51:46 Controller GetRepSchedule is invoked
+INFO  06:51:53 GetSchedules is invoked
+INFO  06:51:55 Data is being Read.
+INFO  08:07:41 Application started. Press Ctrl+C to shut down.
+INFO  08:07:41 Application started. Press Ctrl+C to shut down.
+INFO  08:07:41 Hosting environment: Development
+INFO  08:07:41 Hosting environment: Development
+INFO  08:07:41 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  08:07:41 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  08:10:38 Controller GetRepSchedule is invoked
+INFO  08:10:42 GetSchedules is invoked
+INFO  08:10:42 Data is being Read.
+INFO  08:10:42 GetAllStock is invoked
+INFO  08:10:42 Data is being Read from MedicineStock api
+INFO  08:10:48 Represntative Schedule is retrived
+INFO  09:20:00 Application started. Press Ctrl+C to shut down.
+INFO  09:20:00 Application started. Press Ctrl+C to shut down.
+INFO  09:20:00 Hosting environment: Development
+INFO  09:20:00 Hosting environment: Development
+INFO  09:20:00 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  09:20:00 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  09:20:27 Controller GetRepSchedule is invoked
+INFO  09:20:31 GetSchedules is invoked
+INFO  09:20:31 Data is being Read.
+INFO  09:20:31 GetAllStock is invoked
+INFO  09:20:31 Data is being Read from MedicineStock api
+INFO  09:20:40 Represntative Schedule is retrived
+INFO  09:22:43 Controller GetRepSchedule is invoked
+INFO  09:22:46 GetSchedules is invoked
+INFO  09:22:46 Data is being Read.
+INFO  09:22:46 GetAllStock is invoked
+INFO  09:22:46 Data is being Read from MedicineStock api
+INFO  09:22:47 Represntative Schedule is retrived
+INFO  09:25:46 Controller GetRepSchedule is invoked
+INFO  09:25:48 GetSchedules is invoked
+INFO  09:25:48 Data is being Read.
+INFO  09:25:48 GetAllStock is invoked
+INFO  09:25:48 Data is being Read from MedicineStock api
+INFO  09:25:50 Represntative Schedule is retrived
+INFO  09:31:41 Controller GetRepSchedule is invoked
+INFO  09:31:44 GetSchedules is invoked
+INFO  09:31:44 Data is being Read.
+INFO  09:31:44 GetAllStock is invoked
+INFO  09:31:44 Data is being Read from MedicineStock api
+INFO  09:31:48 Represntative Schedule is retrived
+INFO  09:33:40 Controller GetRepSchedule is invoked
+INFO  09:33:42 GetSchedules is invoked
+INFO  09:33:42 Data is being Read.
+INFO  09:33:42 GetAllStock is invoked
+INFO  09:33:42 Data is being Read from MedicineStock api
+INFO  09:33:43 Represntative Schedule is retrived
+INFO  09:34:16 Controller GetRepSchedule is invoked
+INFO  09:34:18 GetSchedules is invoked
+INFO  09:34:18 Data is being Read.
+INFO  09:34:18 GetAllStock is invoked
+INFO  09:34:18 Data is being Read from MedicineStock api
+INFO  09:34:19 Represntative Schedule is retrived
+INFO  09:36:18 Controller GetRepSchedule is invoked
+INFO  09:36:20 GetSchedules is invoked
+INFO  09:36:20 Data is being Read.
+INFO  09:36:20 GetAllStock is invoked
+INFO  09:36:20 Data is being Read from MedicineStock api
+INFO  09:36:21 Represntative Schedule is retrived
+INFO  09:38:02 Controller GetRepSchedule is invoked
+INFO  09:38:04 GetSchedules is invoked
+INFO  09:38:04 Data is being Read.
+INFO  09:38:04 GetAllStock is invoked
+INFO  09:38:04 Data is being Read from MedicineStock api
+INFO  09:38:05 Represntative Schedule is retrived
+INFO  09:44:19 Controller GetRepSchedule is invoked
+INFO  09:44:21 GetSchedules is invoked
+INFO  09:44:21 Data is being Read.
+INFO  09:44:21 GetAllStock is invoked
+INFO  09:44:21 Data is being Read from MedicineStock api
+INFO  09:44:25 Represntative Schedule is retrived
+INFO  07:21:39 Application started. Press Ctrl+C to shut down.
+INFO  07:21:39 Application started. Press Ctrl+C to shut down.
+INFO  07:21:39 Hosting environment: Development
+INFO  07:21:39 Hosting environment: Development
+INFO  07:21:39 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  07:21:39 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  07:22:16 Controller GetRepSchedule is invoked
+INFO  07:22:19 GetSchedules is invoked
+INFO  07:22:19 Data is being Read.
+INFO  07:22:19 GetAllStock is invoked
+INFO  07:22:19 Data is being Read from MedicineStock api
+ERROR 07:22:25 No Values FoundSystem.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:44312))
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:44312)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at MedicalRepresentativeScheduleAPI.Repository.ScheduleRepo.GetAllStock() in D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\Repository\ScheduleRepo.cs:line 105
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at MedicalRepresentativeScheduleAPI.Repository.ScheduleRepo.GetSchedules(DateTime scheduleStartDate) in D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\Repository\ScheduleRepo.cs:line 60
+INFO  07:22:30 Schedule is not Created
+INFO  07:23:32 Controller GetRepSchedule is invoked
+INFO  07:23:37 GetSchedules is invoked
+INFO  07:23:37 Data is being Read.
+INFO  07:23:37 GetAllStock is invoked
+INFO  07:23:37 Data is being Read from MedicineStock api
+ERROR 07:23:44 No Values FoundSystem.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:44312))
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:44312)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at MedicalRepresentativeScheduleAPI.Repository.ScheduleRepo.GetAllStock() in D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\Repository\ScheduleRepo.cs:line 105
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at MedicalRepresentativeScheduleAPI.Repository.ScheduleRepo.GetSchedules(DateTime scheduleStartDate) in D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\Repository\ScheduleRepo.cs:line 60
+INFO  07:24:03 Schedule is not Created
+INFO  07:24:03 Controller GetRepSchedule is invoked
+INFO  07:24:06 GetSchedules is invoked
+INFO  07:24:06 Data is being Read.
+INFO  07:24:06 GetAllStock is invoked
+INFO  07:24:06 Data is being Read from MedicineStock api
+ERROR 07:24:15 No Values FoundSystem.AggregateException: One or more errors occurred. (No connection could be made because the target machine actively refused it. (localhost:44312))
+ ---> System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:44312)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|283_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.DefaultConnectAsync(SocketsHttpConnectionContext context, CancellationToken cancellationToken)
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.ConnectHelper.ConnectAsync(Func`3 callback, DnsEndPoint endPoint, HttpRequestMessage requestMessage, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttpConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.SendAsyncCore(HttpRequestMessage request, HttpCompletionOption completionOption, Boolean async, Boolean emitTelemetryStartStop, CancellationToken cancellationToken)
+   at MedicalRepresentativeScheduleAPI.Repository.ScheduleRepo.GetAllStock() in D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\Repository\ScheduleRepo.cs:line 105
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   at System.Threading.Tasks.Task`1.get_Result()
+   at MedicalRepresentativeScheduleAPI.Repository.ScheduleRepo.GetSchedules(DateTime scheduleStartDate) in D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\Repository\ScheduleRepo.cs:line 60
+INFO  07:24:16 Schedule is not Created
+INFO  07:26:19 Application started. Press Ctrl+C to shut down.
+INFO  07:26:19 Application started. Press Ctrl+C to shut down.
+INFO  07:26:19 Hosting environment: Development
+INFO  07:26:19 Hosting environment: Development
+INFO  07:26:19 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  07:26:19 Content root path: D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI
+INFO  07:26:34 Controller GetRepSchedule is invoked
+INFO  07:26:49 GetSchedules is invoked
+INFO  07:26:49 Data is being Read.
+INFO  07:26:49 GetAllStock is invoked
+INFO  07:26:49 Data is being Read from MedicineStock api
+INFO  07:27:00 Represntative Schedule is retrived
+INFO  07:27:41 Controller GetRepSchedule is invoked
+INFO  07:27:43 GetSchedules is invoked
+INFO  07:27:43 Data is being Read.
+INFO  07:27:43 GetAllStock is invoked
+INFO  07:27:43 Data is being Read from MedicineStock api
+INFO  07:27:56 Represntative Schedule is retrived
+INFO  07:45:48 Application started. Press Ctrl+C to shut down.
+INFO  07:45:48 Application started. Press Ctrl+C to shut down.
+INFO  07:45:48 Hosting environment: Development
+INFO  07:45:48 Hosting environment: Development
+INFO  07:45:48 Content root path: D:\Users\spareek\Downloads\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI
+INFO  07:45:48 Content root path: D:\Users\spareek\Downloads\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI
+INFO  08:06:52 Controller GetRepSchedule is invoked
+INFO  08:06:55 GetSchedules is invoked
+INFO  08:06:55 Data is being Read.
+INFO  08:06:55 GetAllStock is invoked
+INFO  08:06:55 Data is being Read from MedicineStock api
+INFO  08:06:57 Represntative Schedule is retrived
+INFO  12:35:05 Application started. Press Ctrl+C to shut down.
+INFO  12:35:05 Application started. Press Ctrl+C to shut down.
+INFO  12:35:05 Hosting environment: Development
+INFO  12:35:05 Hosting environment: Development
+INFO  12:35:05 Content root path: D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI
+INFO  12:35:05 Content root path: D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI
+INFO  01:31:51 Controller GetRepSchedule is invoked
+INFO  01:32:18 Application started. Press Ctrl+C to shut down.
+INFO  01:32:18 Application started. Press Ctrl+C to shut down.
+INFO  01:32:18 Hosting environment: Development
+INFO  01:32:18 Hosting environment: Development
+INFO  01:32:18 Content root path: D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI
+INFO  01:32:18 Content root path: D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI
+INFO  01:33:53 Controller GetRepSchedule is invoked
+INFO  01:33:53 GetSchedules is invoked
+INFO  01:33:53 Data is being Read.
+INFO  01:33:53 GetAllStock is invoked
+INFO  01:33:53 Data is being Read from MedicineStock api
+INFO  01:33:53 Represntative Schedule is retrived

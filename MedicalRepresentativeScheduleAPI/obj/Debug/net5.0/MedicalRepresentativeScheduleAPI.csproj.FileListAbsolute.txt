@@ -1,0 +1,329 @@
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\log4net.config
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\appsettings.json
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.api.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.core.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.exe
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.deps.json
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.runtimeconfig.json
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.runtimeconfig.dev.json
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\ref\MedicalRepresentativeScheduleAPI.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.pdb
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\log4net.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Moq.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.framework.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csprojAssemblyReference.cache
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.AssemblyInfoInputs.cache
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.AssemblyInfo.cs
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.CoreCompileInputs.cache
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduleAPI.StaticWebAssets.Manifest.cache
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduleAPI.StaticWebAssets.xml
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\scopedcss\bundle\MedicalRepresentativeScheduleAPI.styles.css
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.RazorTargetAssemblyInfo.cache
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.CopyComplete
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\ref\MedicalRepresentativeScheduleAPI.dll
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.pdb
+C:\MFPEFINALLL\New folder\Pharmacy-medicine-supply-Management-System\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.genruntimeconfig.cache
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\log4net.config
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.exe
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.deps.json
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.runtimeconfig.json
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.runtimeconfig.dev.json
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\ref\MedicalRepresentativeScheduleAPI.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.pdb
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\log4net.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Moq.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csprojAssemblyReference.cache
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.AssemblyInfoInputs.cache
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.AssemblyInfo.cs
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.CoreCompileInputs.cache
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduleAPI.StaticWebAssets.Manifest.cache
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduleAPI.StaticWebAssets.xml
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\scopedcss\bundle\MedicalRepresentativeScheduleAPI.styles.css
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.RazorTargetAssemblyInfo.cache
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.CopyComplete
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\ref\MedicalRepresentativeScheduleAPI.dll
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.pdb
+C:\Users\trive\source\repos\pmsm\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.genruntimeconfig.cache
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\log4net.config
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.exe
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.deps.json
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.runtimeconfig.json
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.runtimeconfig.dev.json
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\ref\MedicalRepresentativeScheduleAPI.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.pdb
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\log4net.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Moq.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.AssemblyReference.cache
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.AssemblyInfoInputs.cache
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.AssemblyInfo.cs
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.CoreCompileInputs.cache
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduleAPI.StaticWebAssets.Manifest.cache
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduleAPI.StaticWebAssets.xml
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\scopedcss\bundle\MedicalRepresentativeScheduleAPI.styles.css
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.RazorTargetAssemblyInfo.cache
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.CopyComplete
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\ref\MedicalRepresentativeScheduleAPI.dll
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.pdb
+C:\Users\aamir\Desktop\PMSM2\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.genruntimeconfig.cache
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\log4net.config
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\appsettings.json
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.api.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.core.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.exe
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.deps.json
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.runtimeconfig.json
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.runtimeconfig.dev.json
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\ref\MedicalRepresentativeScheduleAPI.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.pdb
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Castle.Core.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\log4net.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Moq.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.framework.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.AssemblyInfoInputs.cache
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.AssemblyInfo.cs
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.CoreCompileInputs.cache
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduleAPI.StaticWebAssets.Manifest.cache
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduleAPI.StaticWebAssets.xml
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\scopedcss\bundle\MedicalRepresentativeScheduleAPI.styles.css
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.RazorTargetAssemblyInfo.cache
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.CopyComplete
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\ref\MedicalRepresentativeScheduleAPI.dll
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.pdb
+E:\cognizant_internship\final project\MedicalRepresentativeScheduleAPI\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.genruntimeconfig.cache
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\log4net.config
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\appsettings.json
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.api.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.core.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.exe
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.deps.json
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.runtimeconfig.json
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.runtimeconfig.dev.json
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\ref\MedicalRepresentativeScheduleAPI.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.pdb
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Castle.Core.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\log4net.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Moq.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.framework.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.AssemblyReference.cache
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.AssemblyInfoInputs.cache
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.AssemblyInfo.cs
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.CoreCompileInputs.cache
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduleAPI.StaticWebAssets.Manifest.cache
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduleAPI.StaticWebAssets.xml
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\scopedcss\bundle\MedicalRepresentativeScheduleAPI.styles.css
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.RazorTargetAssemblyInfo.cache
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.CopyComplete
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\ref\MedicalRepresentativeScheduleAPI.dll
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.pdb
+D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.genruntimeconfig.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\log4net.config
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\appsettings.json
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.api.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.engine.core.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.exe
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.deps.json
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.runtimeconfig.json
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.runtimeconfig.dev.json
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\ref\MedicalRepresentativeScheduleAPI.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\MedicalRepresentativeScheduleAPI.pdb
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Castle.Core.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\log4net.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Moq.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\nunit.framework.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.AssemblyReference.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.AssemblyInfoInputs.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.AssemblyInfo.cs
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.CoreCompileInputs.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduleAPI.StaticWebAssets.Manifest.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\staticwebassets\MedicalRepresentativeScheduleAPI.StaticWebAssets.xml
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\scopedcss\bundle\MedicalRepresentativeScheduleAPI.styles.css
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.RazorTargetAssemblyInfo.cache
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.csproj.CopyComplete
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\ref\MedicalRepresentativeScheduleAPI.dll
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.pdb
+D:\Cogni project\PharmacyMedicineSupplyPortal\MedicalRepresentativeScheduleAPI\obj\Debug\net5.0\MedicalRepresentativeScheduleAPI.genruntimeconfig.cache

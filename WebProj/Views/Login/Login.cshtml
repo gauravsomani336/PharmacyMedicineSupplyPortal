@@ -1,0 +1,39 @@
+﻿@model WebProj.Models.Login
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+
+<div class="col-md-4 main">
+    <h2 class="sign hh">Login</h2>
+    <form asp-controller="Login" asp-action="Authorize" method="post">
+
+        <p style="color:red;">@ViewBag.Message</p>
+
+
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="form-group">
+            <label asp-for="@Model.Username" class="control-label font-weight-bold"></label>
+            <input asp-for="@Model.Username" class="form-control un" />
+            @*<span asp-validation-for="Username" class="text-danger"></span>*@
+        </div>
+        <div class="form-group">
+            <label asp-for="@Model.Password" class="control-label font-weight-bold"></label>
+            <input asp-for="@Model.Password" class="form-control pass" />
+            @*<span asp-validation-for="Password" class="text-danger"></span>*@
+        </div>
+        <div class="form-group text-center">
+            <input type="submit" value="Login" class="btn btn-primary" onsubmit="return required()" />
+            <input type="button" value="Back" class="btn btn-secondary" onclick="location.href='@Url.Action("Index", "Home")'" />
+        </div>
+       @* <button class="btn btn-primary btn-block" asp-area="" asp-controller="Home" asp-action="GetStockData">Stock Data</button>*@
+    </form>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+

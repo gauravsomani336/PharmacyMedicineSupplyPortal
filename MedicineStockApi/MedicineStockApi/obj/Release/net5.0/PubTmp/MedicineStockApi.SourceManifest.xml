@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicineStockApi\MedicineStockApi\obj\Release\net5.0\PubTmp\Out\" />
+  <dbfullsql path="D:\Users\spareek\Downloads\Pharmacy-Medicine-Supply-Management-main\Pharmacy-Medicine-Supply-Management-main\MedicineStockApi\MedicineStockApi\obj\Release\net5.0\PubTmp\EFSQLScripts\MedicineStockApi.Models.StockContext.sql" />
+</sitemanifest>

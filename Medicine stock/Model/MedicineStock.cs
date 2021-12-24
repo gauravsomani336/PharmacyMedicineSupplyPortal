@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Medicine_stock.Model
+{
+    public class MedicineStock
+    {
+        [Key]
+       public string Name { get; set; }
+        public string ChemicalComposition { get; set; }
+        public string TargetAilment { get; set; }
+        public DateTime DateOfExpiry { get; set; }
+        public int NumberOfTabletsInStock { get; set; }
+
+        MedicineStock() { }
+        MedicineStock(string name, string chemicalComposition, string TargetAilment, DateTime DateOfExpiry, int count)
+        {
+            this.Name = name;
+            this.ChemicalComposition = chemicalComposition;
+            this.TargetAilment = TargetAilment;
+            this.DateOfExpiry = DateOfExpiry;
+            this.NumberOfTabletsInStock = count;
+        }
+    }
+
+}
+

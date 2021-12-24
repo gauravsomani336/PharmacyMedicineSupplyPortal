@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2021-08-20T04:14:18.7294604Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2021-08-20T04:14:41.7040105Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "8c4fdfb3-3628-4404-96b7-9e96c6e63b27"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "AzureMed"
+    }
+  }
+}

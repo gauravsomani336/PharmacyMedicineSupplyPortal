@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAArnnvip+sI0ePe7dZwuuzagAAAAACAAAAAAADZgAAwAAAABAAAAAKyzfPkMFgo7SjICIAtG+5AAAAAASAAACgAAAAEAAAAFPIzZikEibktWetVeCpS1uAAAAAfHBtw7WpxiNAxXO8Ux8U/uPSqbVcjTbdeEE9rUwzVlKulnDgQy4iTUi9v4usDHBSFSkRvQPqrqlbVLrmGMVT03JGe8095jb3LzX3xOtasVwtx6BNG6DjLgoXPfLrc9oOI2Z7yNVk4tZkGpy+2NsbiUc0a2hYwzVTs1Ncv9pBp1MUAAAAK1ywhD1Kkfo+41KlcxASV8wGrUs=</EncryptedPassword>
+    <History>True|2021-08-20T05:39:26.2114594Z;True|2021-08-20T10:39:58.6331774+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="conn">
+      <Value>Data Source=tcp:pharmaserver.database.windows.net,1433%3bInitial Catalog=MedicineStockApi_db%3bUser Id=adminuser%40pharmaserver%3bPassword=21Akshat</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="MedicineStockApi.Models.StockContext">
+      <Value>Data Source=tcp:pharmaserver.database.windows.net,1433%3bInitial Catalog=MedicineStockApi_db%3bUser Id=adminuser%40pharmaserver%3bPassword=21Akshat</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

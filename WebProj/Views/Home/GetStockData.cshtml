@@ -1,0 +1,86 @@
+﻿@model IEnumerable<WebProj.Models.Stock>
+
+    @{
+        ViewData["Title"] = "GetStockData";
+    }
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <body>
+
+        <!-- Sidebar -->
+        <div class="w3-sidebar w3-bar-block w3-border-right" style="display:none" id="mySidebar">
+            <button onclick="w3_close()" class="w3-bar-item w3-large">Close &times;</button>
+
+            <a href="@Url.ActionLink("GetStockData","Home")" class="w3-bar-item w3-button">Stock Data</a>
+            <a href="@Url.ActionLink("GetSchedule","Home")" class="w3-bar-item w3-button">Schedule Appointment</a>
+            <a href="@Url.ActionLink("GetPharmacySupply","Home")" class="w3-bar-item w3-button"></a>
+        </div>
+
+        <!-- Page Content -->
+        <div>
+            <button class="w3-button w3-bar-block w3-xlarge" onclick="w3_open()">☰</button>
+
+        </div>
+        <script>
+            function w3_open() {
+                document.getElementById("mySidebar").style.display = "block";
+            }
+
+            function w3_close() {
+                document.getElementById("mySidebar").style.display = "none";
+            }
+        </script>
+
+    
+
+
+<h1>GetStockData</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ChemicalComposition)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TargetAilment)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateOfExpiry)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumberOfTabletsInStock)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ChemicalComposition)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.TargetAilment)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DateOfExpiry)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.NumberOfTabletsInStock)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@Html.ActionLink("Back", "Index")
+        </body>

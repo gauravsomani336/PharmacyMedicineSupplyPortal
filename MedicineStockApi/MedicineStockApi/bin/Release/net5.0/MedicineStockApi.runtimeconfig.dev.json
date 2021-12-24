@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "D:\\Users\\spareek\\.dotnet\\store\\|arch|\\|tfm|",
+      "D:\\Users\\spareek\\.nuget\\packages"
+    ]
+  }
+}

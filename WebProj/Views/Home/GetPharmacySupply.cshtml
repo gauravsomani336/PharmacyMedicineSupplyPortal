@@ -1,0 +1,48 @@
+﻿@model List<WebProj.Models.MedicineDemand>
+
+@{
+    ViewData["Title"] = "GetPharmacySupply";
+}
+
+
+<br />
+<br />
+<h1 style="text-align:center; font-family:Verdana, Geneva, Tahoma, sans-serif;">Medicine Demand</h1>
+<br />
+
+
+<div class="container">
+
+    <form asp-controller="Home" asp-action="PostPharmacySupply" method="post">
+        <table class="table  table-bordered">
+            <thead>
+                <tr>
+                    <th style="color:blue">Medicine Name</th>
+                    <th style="color:blue">Demand Count</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @for (int i = 0; i < Model.Count; i++)
+                {
+                    <tr>
+                        <th style="color:black">
+                            
+                            <input asp-for="@Model[i].medicineName" class="form-control" />
+                        </th>
+                        <td>
+                            <input asp-for="@Model[i].demandCount" class="form-control" />
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="form-group text-center">
+            <input type="submit" value="Get Pharmacy Supply" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+<div class="form-group text-center">
+    <input type="button" value="Refresh" class="btn btn-success" onclick="location.href='@Url.Action("GetPharmacySupply", "Home")'" />
+</div>
+
